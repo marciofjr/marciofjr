@@ -26,7 +26,7 @@
  <a href="https://api.whatsapp.com/send?phone=5516988308470&text=Oi%20M%C3%A1rcio%2C%20acessei%20seu%20perfil%20pelo%20github." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcioferreira_junior@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href = "https://dolarhoje.com/bitcoin-hoje/"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-  
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
  
   ![Snake animation](https://github.com/marciofjr/marciofjr/blob/output/github-contribution-grid-snake.svg)
  
