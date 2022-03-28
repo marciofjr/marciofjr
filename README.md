@@ -33,9 +33,8 @@
   <a href = "mailto:marcioferreira_junior@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href = "https://dolarhoje.com/bitcoin-hoje/"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
  
- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Marcio Ferreira Junior</a></div>
-              
   ![Snake animation](https://github.com/marciofjr/marciofjr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Marcio Ferreira Junior</a></div>
+ 
