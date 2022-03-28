@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="MFJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="MFJ-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+ <img align="center" Title="SQL" alt="MFJ-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
  
  <img align="center" alt="MFJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
