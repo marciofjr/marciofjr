@@ -1,4 +1,4 @@
-## Sou o Márcio Ferreira, apaixonado pela tecnologia !
+## Sou o <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Marcio Ferreira Junior</a></div>, apaixonado pela tecnologia !
  
 <div align="center">
   <a href="https://github.com/marciofjr">
@@ -36,6 +36,5 @@
   ![Snake animation](https://github.com/marciofjr/marciofjr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Marcio Ferreira Junior</a></div>
-              
+          
  
