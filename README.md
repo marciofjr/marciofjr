@@ -6,10 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciofjr&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="MFJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" Title="SQL" alt="MFJ-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
- 
- <img align="center" alt="MFJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" title="Python" alt="MFJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" title="SQL" alt="MFJ-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+ <img align="center" title="JavaScript" alt="MFJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
   <img align="center" alt="MFJ-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MFJ-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
