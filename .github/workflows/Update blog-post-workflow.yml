@@ -1,0 +1,14 @@
+name: fluxo de trabalho de postagem de blog mais recente
+on:
+  schedule: # Executar fluxo de trabalho
+    - cron: '0 * * * *' # Executa a cada hora, na hora
+  workflow_dispatch: # Executa o workflow manualmente (sem esperar que o cron seja chamado), através da página Github Actions Workflow diretamente
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "http://www.dieletztedomain.de/feed/,https://rss.app/feeds/OIluqfKr0EEWXsly.xml"
