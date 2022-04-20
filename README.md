@@ -1,8 +1,3 @@
-#### Latest blog posts and some programming wisdom from @CodeWisdom :-)
-<!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
-<!-- BLOG-POST-LIST:END -->
-
 ## <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Sou o Marcio Ferreira Junior, apaixonado pela tecnologia ! </a></div>
  
 <div align="center">
@@ -39,6 +34,11 @@
    <a href = "https://dolarhoje.com/bitcoin-hoje/"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/marciofjr/marciofjr/blob/output/github-contribution-grid-snake.svg)
+ 
+ #### Segue no LinkedIn @marciofjr :-)
+<!-- BLOG-POST-LIST:START -->
+- [[Action required] Your RSS.app Trial has Expired.](https://www.linkedin.com/in/marciofjr/)
+<!-- BLOG-POST-LIST:END -->
  
 </div>
           
