@@ -1,3 +1,8 @@
+#### Latest blog posts and some programming wisdom from @CodeWisdom :-)
+<!-- BLOG-POST-LIST:START -->
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
+<!-- BLOG-POST-LIST:END -->
+
 ## <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Sou o Marcio Ferreira Junior, apaixonado pela tecnologia ! </a></div>
  
 <div align="center">
