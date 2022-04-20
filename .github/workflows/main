@@ -1,0 +1,47 @@
+# Este é um fluxo de trabalho básico para ajudar você a começar a usar o Actions
+
+name: CI
+
+# Controla quando o fluxo de trabalho será executado
+on:
+  # Aciona o fluxo de trabalho em eventos de solicitação push ou pull, mas apenas para o branch principal
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Permite que você execute este fluxo de trabalho manualmente na guia Ações
+  workflow_dispatch:
+
+# Uma execução de fluxo de trabalho é composta por um ou mais trabalhos que podem ser executados sequencialmente ou em paralelo
+jobs:
+  # Este fluxo de trabalho contém um único trabalho chamado "build"
+  build:
+    # O tipo de executor em que o trabalho será executado
+    runs-on: ubuntu-latest
+
+    # Etapas representam uma sequência de tarefas que serão executadas como parte do trabalho
+    steps:
+      # Verifica seu repositório em $GITHUB_WORKSPACE, para que seu trabalho possa acessá-lo
+      - uses: actions/checkout@v2
+
+      # Executa um único comando usando o shell runners
+      - name: executa uma linha
+        run: echo Hello, world!
+
+      # Executa um conjunto de comandos usando o shell runners
+      - name: executa varias linhas
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+          
+      - name: generate-snake-game-from-github-contribution-grid
+        # Você pode fixar o commit exato ou a versão.
+        # uses: Platane/snk@335757dc9db4e3499a229702a8f517ea310f9352
+        uses: Platane/snk@v0.0.18
+        with:
+          # nome de usuário do github
+          github_user_name: marciofjr
+          # caminho do gif gerado
+          gif_out_path: ./github-contribution-grid-snake.gif
+          
