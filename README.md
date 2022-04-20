@@ -37,7 +37,7 @@
  
  #### Segue no LinkedIn @marciofjr :-)
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://www.linkedin.com/in/marciofjr/)
+- [[Action required]](https://www.linkedin.com/in/marciofjr/)
 <!-- BLOG-POST-LIST:END -->
  
 </div>
