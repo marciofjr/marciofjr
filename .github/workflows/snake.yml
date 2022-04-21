@@ -29,7 +29,8 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: marciofjr
+          github_user_name: Platane
+          #github_user_name: marciofjr
           # essas próximas 2 linhas geram os arquivos em um branch chamado "output". 
           # Isso evita que o branch principal fique confuso.
           gif_out_path: dist/github-contribution-grid-snake.gif
