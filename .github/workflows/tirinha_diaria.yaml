@@ -11,6 +11,6 @@ jobs:
         name: Atualizar README com Comic Strip
         runs-on: ubuntu-latest
         steps:
-            - uses: ism0080/comicstrip-readme@v1.2
+            - uses: marciofjr/tirinhabr_readme@v1
               with:
                   SHOW_XKCD: true
