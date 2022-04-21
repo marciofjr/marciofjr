@@ -1,6 +1,6 @@
 # GitHub Action para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
 
-name: Generate Snake
+name: Gerar Cobrinha
 
 # Controla quando a ação será executada. Esta ação é executada a cada 6 horas.
 
