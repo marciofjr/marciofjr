@@ -1,21 +1,3 @@
-<!--START_SECTION:comicstrip-->
-<p align="center">
- <a href="https://xkcd.com/">
- <img src="https://imgs.xkcd.com/comics/entwives.png" />
-</a>
-</p>
-<!--END_SECTION:comicstrip-->
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Moderno](https://www.johnywalves.com.br/comic-18/)
-- [Foco, Força e Fé](https://www.johnywalves.com.br/comic-17/)
-- [Vantagens](https://www.johnywalves.com.br/comic-16/)
-- [Hype](https://www.johnywalves.com.br/comic-15/)
-- [Belo Design](https://www.johnywalves.com.br/comic-14/)
-<!-- BLOG-POST-LIST:END -->
-
 ## <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="marciofjr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marciofjr?trk=profile-badge">Sou o Marcio Ferreira Junior, apaixonado pela tecnologia ! </a></div>
  
 <div align="center">
@@ -64,4 +46,21 @@
  
 </div>
           
- 
+
+# Tirinhas BR:
+<!-- BLOG-POST-LIST:START -->
+- [Desenvolvimento Moderno](https://www.johnywalves.com.br/comic-18/)
+- [Foco, Força e Fé](https://www.johnywalves.com.br/comic-17/)
+- [Vantagens](https://www.johnywalves.com.br/comic-16/)
+- [Hype](https://www.johnywalves.com.br/comic-15/)
+- [Belo Design](https://www.johnywalves.com.br/comic-14/)
+<!-- BLOG-POST-LIST:END -->
+
+# Tirinhas EN:
+<!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/entwives.png" />
+</a>
+</p>
+<!--END_SECTION:comicstrip-->
