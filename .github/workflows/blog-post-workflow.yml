@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Postagem Linkedin
 on:
   schedule: # Executar fluxo de trabalho
     - cron: '0 * * * *' # Executa a cada hora, na hora
