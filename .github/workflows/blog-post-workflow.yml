@@ -1,4 +1,4 @@
-name: Postagem Linkedin
+#name: Postagem Linkedin (INATIVO)
 on:
   schedule: # Executar fluxo de trabalho
     - cron: '0 * * * *' # Executa a cada hora, na hora
