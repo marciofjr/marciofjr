@@ -1,4 +1,4 @@
-name: Leia-me da Banda Desenhada
+name: tirinha charge
 
 on:
     workflow_dispatch:
