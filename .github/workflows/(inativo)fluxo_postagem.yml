@@ -1,8 +1,7 @@
 name: Postagem Linkedin (INATIVO)
 on:
   schedule: # Executar fluxo de trabalho
-    #- cron: '0 * * * *' # Executa a cada hora, na hora
-    - cron: '999' # Executa a cada hora, na hora
+    - cron: '0 * * * *' # Executa a cada hora, na hora
   workflow_dispatch: # Executa o workflow manualmente (sem esperar que o cron seja chamado), através da página Github Actions Workflow diretamente
 jobs:
   update-readme-with-blog:
@@ -13,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://feeds.feedburner.com/johnywalves-comics"
+              #- cron: '999' # Executa a cada hora, na hora
