@@ -40,7 +40,7 @@
 </div>
           
 
-# Tirinhas BR:
+### Tirinhas BR:
 <!-- BLOG-POST-LIST:START -->
 - [Desenvolvimento Moderno](https://www.johnywalves.com.br/comic-18/)
 - [Foco, Força e Fé](https://www.johnywalves.com.br/comic-17/)
@@ -49,7 +49,7 @@
 - [Belo Design](https://www.johnywalves.com.br/comic-14/)
 <!-- BLOG-POST-LIST:END -->
 
-# Tirinhas EN:
+### Tirinhas EN:
 <!--START_SECTION:comicstrip-->
 <p align="center">
  <a href="https://xkcd.com/">
