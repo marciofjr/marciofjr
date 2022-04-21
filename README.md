@@ -36,13 +36,6 @@
   ![Snake animation](https://github.com/marciofjr/marciofjr/blob/output/github-contribution-grid-snake.svg)
  
  #### Segue no LinkedIn @marciofjr :-)
-<!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento Moderno](https://www.johnywalves.com.br/comic-18/)
-- [Foco, Força e Fé](https://www.johnywalves.com.br/comic-17/)
-- [Vantagens](https://www.johnywalves.com.br/comic-16/)
-- [Hype](https://www.johnywalves.com.br/comic-15/)
-- [Belo Design](https://www.johnywalves.com.br/comic-14/)
-<!-- BLOG-POST-LIST:END -->
  
 </div>
           
