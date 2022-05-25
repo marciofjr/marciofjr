@@ -42,11 +42,11 @@
 
 ### Tirinhas BR:
 <!-- BLOG-POST-LIST:START -->
+- [Bom dia!](https://www.johnywalves.com.br/comic-20/)
 - [Pausa para o café](https://www.johnywalves.com.br/comic-19/)
 - [Desenvolvimento Moderno](https://www.johnywalves.com.br/comic-18/)
 - [Foco, Força e Fé](https://www.johnywalves.com.br/comic-17/)
 - [Vantagens](https://www.johnywalves.com.br/comic-16/)
-- [Hype](https://www.johnywalves.com.br/comic-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tirinhas EN:
