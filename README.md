@@ -42,7 +42,7 @@
 
 ### Tirinhas BR:
 <!-- BLOG-POST-LIST:START -->
-- [Tentação!](https://www.johnywalves.com.br/comic-21/)
+- [Tentação](https://www.johnywalves.com.br/comic-21/)
 - [Bom dia!](https://www.johnywalves.com.br/comic-20/)
 - [Pausa para o café](https://www.johnywalves.com.br/comic-19/)
 - [Desenvolvimento Moderno](https://www.johnywalves.com.br/comic-18/)
