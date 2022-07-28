@@ -18,7 +18,7 @@
  <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
  <img align="center" title="Jupyter Notebook" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 
-  <img align="right" alt="MFJ-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzk6VkScgMNzXnW1Cwtpl6lWq7qm0_dq8_Yg&usqp=CAU">
+  <img align="right" alt="MFJ-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHA1aWKdmWp0Q/profile-displayphoto-shrink_200_200/0/1652206805574?e=1664409600&v=beta&t=VyHQcuPP7aytQrdWSjvwAgLX1hWTneO87Kmeo1MtPfw">
 
  
 </div>
