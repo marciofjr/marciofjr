@@ -19,7 +19,7 @@
  <img align="center" title="Jupyter Notebook" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 
  
-  <img align="right" alt="MFJ-pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/378/793/png-transparent-nerd-geek-geek-face-photography-logo.png">
+  <img background-color="transparent" align="right" alt="MFJ-pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/378/793/png-transparent-nerd-geek-geek-face-photography-logo.png">
 </div>
   
   ##
