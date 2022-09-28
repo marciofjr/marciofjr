@@ -43,11 +43,11 @@
 
 ### Tirinhas BR:
 <!-- BLOG-POST-LIST:START -->
-- [Felicitações](https://www.johnywalves.com.br/comic-24/)
-- [Apresentação](https://www.johnywalves.com.br/comic-23/)
-- [Definição de Pronto](https://www.johnywalves.com.br/comic-22/)
-- [Tentação](https://www.johnywalves.com.br/comic-21/)
-- [Bom dia!](https://www.johnywalves.com.br/comic-20/)
+- [Felicitações](https://johnywalves.com.br/comic-24/)
+- [Apresentação](https://johnywalves.com.br/comic-23/)
+- [Definição de Pronto](https://johnywalves.com.br/comic-22/)
+- [Tentação](https://johnywalves.com.br/comic-21/)
+- [Bom dia!](https://johnywalves.com.br/comic-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tirinhas EN:
