@@ -43,11 +43,11 @@
 
 ### Tirinhas BR:
 <!-- BLOG-POST-LIST:START -->
+- [Análise profissional](https://johnywalves.com.br/comic-26/)
 - [Lidando com Erros](https://johnywalves.com.br/comic-25/)
 - [Felicitações](https://johnywalves.com.br/comic-24/)
 - [Apresentação](https://johnywalves.com.br/comic-23/)
 - [Definição de Pronto](https://johnywalves.com.br/comic-22/)
-- [Tentação](https://johnywalves.com.br/comic-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tirinhas EN:
